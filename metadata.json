@@ -1,0 +1,6 @@
+{
+  "name": "Second Brain AI",
+  "description": "المساعد الشخصي الذكي - تطبيق عقل ثانٍ ينظم حياتك، ملاحظاتك، مشاريعك، ومهامك بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
